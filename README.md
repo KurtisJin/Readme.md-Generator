@@ -1,4 +1,4 @@
-# Test
+# TEST
 
 ## Table of Contents:
   1. [Description](#description)
@@ -20,7 +20,7 @@ undefined
 test
 
 ## Credits:
-tet
+test
 
 ## License:
 MIT
