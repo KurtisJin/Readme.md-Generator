@@ -29,9 +29,10 @@ const questions =  [
             message: 'List your collaborators, if any, with links to their GitHubProvide instructions and examples for use.'            
         },
         {
-            type: 'input', 
+            type: 'checkbox', 
             name: 'license',
-            message: 'The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. '            
+            choices: ["MIT", "GPLv3", "GPL"],
+            message: 'Pick your License.'            
         },
         {
             type: 'input', 
@@ -52,6 +53,11 @@ const questions =  [
             type: 'input', 
             name: 'questions',
             message: 'Enter your Github ID'            
+        },
+        {
+            type: 'input', 
+            name: 'questions2',
+            message: 'Enter your full website address including http(s)://'            
         },
     ]
 

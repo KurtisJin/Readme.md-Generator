@@ -1,4 +1,4 @@
-# test
+# // ${renderLicenseBadge(license)}
 
 ## Table of Contents:
   1. [Description](#description)
@@ -9,32 +9,32 @@
   6. [Features](#features)
   7. [Contirbute](#contribute)
   8. [Test](#test)
-  9. [Questions]#questions
+  9. [Questions](#questions)
 
 ## Description:
-test
+// ${renderLicenseLink(license)}// ${renderLicenseBadge(license)}
 
 ## Installation:
-test
+// ${renderLicenseLink(license)}// ${renderLicenseBadge(license)}
 
 ## Usage:
-test
+// ${renderLicenseLink(license)}// ${renderLicenseBadge(license)}
 
 ## Credits:
-test
+// ${renderLicenseLink(license)}// ${renderLicenseBadge(license)}
 
 ## License:
-test
+GPL
 
 ## Features:
-test
+// ${renderLicenseBadge(license)}
 
 ## Contribute:
-test
+// ${renderLicenseLink(license)}// ${renderLicenseBadge(license)}
 
 ## Test:
-test
+// ${renderLicenseLink(license)}// ${renderLicenseBadge(license)}
 
 ## Questions:
-<a href = "https://github.com/kurtisjin">My Github Site</a>
-
+Please click the link for Github: <a href = "https://github.com/// ${renderLicenseLink(license)}// ${renderLicenseBadge(license)}">My Github Site</a>
+Please click the link for my Website: <a href = "// ${renderLicenseLink(license)}// ${renderLicenseBadge(license)}">My Website</a>
