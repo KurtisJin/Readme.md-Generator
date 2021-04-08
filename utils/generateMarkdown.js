@@ -44,6 +44,7 @@ function generateMarkdown(data) {
   6. [Features](#features)
   7. [Contirbute](#contribute)
   8. [Test](#test)
+  9. [Questions]#questions
 
 ## Description:
 ${data.description}
@@ -68,6 +69,9 @@ ${data.contribute}
 
 ## Test:
 ${data.test}
+
+## Questions:
+<a href = "https://github.com/${data.questions}">My Github Site</a>
 
 `;
 }

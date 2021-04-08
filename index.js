@@ -48,6 +48,11 @@ const questions =  [
             name: 'test',
             message: 'Go the extra mile and write tests for your application. Then provide examples on how to run them here.'            
         },
+        {
+            type: 'input', 
+            name: 'questions',
+            message: 'Enter your Github ID'            
+        },
     ]
 
 // TODO: Create a function to write README file
