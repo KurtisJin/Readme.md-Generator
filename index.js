@@ -56,7 +56,7 @@ function writeToFile(fileName, data) {
         if(err) {
             return console.error(err) 
         } else {
-            console.log("Successful writing the to Readme file " + fileName);
+            console.log("Successful writing to " + fileName);
         }
 
     })    
