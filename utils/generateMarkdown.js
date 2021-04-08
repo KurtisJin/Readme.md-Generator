@@ -16,7 +16,7 @@ function renderLicenseBadge(license) {
 function renderLicenseLink(license) {
 
   if(license === 'MIT') {
-    return `${data.license}[![License: MIT](https://opensource.org/licenses/MIT)`
+    return `[![License: MIT](https://opensource.org/licenses/MIT)`
   }
   return noLicense;
 }
