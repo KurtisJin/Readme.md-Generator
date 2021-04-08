@@ -11,26 +11,26 @@
   8. [Test](#test)
 
 ## Description:
-t
+test
 
 ## Installation:
 undefined
 
 ## Usage:
-t
+test
 
 ## Credits:
-t
+tet
 
 ## License:
-t
+MIT
 
 ## Features:
-tt
+test
 
 ## Contribute:
-
+test
 
 ## Test:
-
+test
 
