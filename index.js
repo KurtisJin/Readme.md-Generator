@@ -5,6 +5,11 @@ const markDown = require('./utils/generateMarkdown');
 const questions =  [
         {
             type: 'input', 
+            name: 'title',
+            message: 'Title of your page'
+        },
+        {
+            type: 'input', 
             name: 'description',
             message: 'Provide a short description explaining the what, why, and how of your project.'
         },
