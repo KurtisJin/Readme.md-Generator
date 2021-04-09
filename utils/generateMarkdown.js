@@ -45,7 +45,7 @@ function renderLicenseSection(data) {
   let licenseSection = data.license[0];
   let yourSection = ''
   if(licenseSection === 'MIT') {
-    yourSection = `<a href = "https://www.gnu.org/licenses/quick-guide-gplv3.html">GPLv3 Guide</a>`
+    yourSection = `<a href = "https://gist.github.com/ckib16/8732561535ed766cd6b8">MIT Guide</a>`
 
   } else if(licenseSection === 'GPLv3') {
     yourSection = `<a href = "https://github.com/TheFox/GPLv3.mdl">GPLv3 Guide</a>`
@@ -89,9 +89,9 @@ ${data.usage}
 ${data.credits}
 
 ## Licenses:
-Your Badge: ${renderLicenseBadge(data)}
-Your Badge link: ${renderLicenseLink(data)}
-Your Badge Readme: ${renderLicenseSection(data)}
+1. Your Badge: ${renderLicenseBadge(data)}
+2. Your Badge link: ${renderLicenseLink(data)}
+3. Your Badge Readme: ${renderLicenseSection(data)}
 
 ## Features:
 ${data.features}
@@ -103,8 +103,8 @@ ${data.contribute}
 ${data.test}
 
 ## Questions:
-Please click the link for Github: <a href = "https://github.com/${data.questions}">My Github Site</a>
-Please click the link for my Website: <a href = "${data.questions2}">My Website</a>
+1. Please click the link for Github: <a href = "https://github.com/${data.questions}">My Github Site</a>
+2. Please click the link for my Website: <a href = "${data.questions2}">My Website</a> 
 `;
 }
 
