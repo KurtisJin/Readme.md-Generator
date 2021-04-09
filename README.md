@@ -1,4 +1,4 @@
-# 4/9/2021
+# Readme Generator
 
 ## Badge: ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
@@ -14,16 +14,21 @@
   9. [Questions](#questions)
 
 ## Description:
-TEST
+Program using node.js to create a readme.md file for your Github
 
 ## Installation:
-TEST
+ You will need to install node.js and inquirer.
 
 ## Usage:
-TEST
+1. Run index.js using node.js from the terminal.
+2. Answer the prompted questions and press Enter
+3. When finished, you will see either readme.md is created or if you already had a readme.md, you will see the overwritten readme.md file. Then, you need to either uploaded to Github or use Gitbash to push it to your repository.
+
+## Demo Video of the Generator
+<a href = "https://youtu.be/bQpNUcq0hr8">Demo Video</a>
 
 ## Credits:
-TEST
+Made by: Kurtis Jin
 
 ## Licenses:
 1. Your Badge: ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -31,13 +36,13 @@ TEST
 3. Your Badge Readme: <a href = "https://gist.github.com/ckib16/8732561535ed766cd6b8">MIT Guide</a>
 
 ## Features:
-TEST
+Create Readme.md with built in template
 
 ## Contribute:
-TEST
+N/A
 
 ## Test:
-TEST
+Test was done using node.js with visual studio code and chrome.
 
 ## Questions:
 1. Please click the link for Github: <a href = "https://github.com/kurtisjin">My Github Site</a>
