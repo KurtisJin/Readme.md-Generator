@@ -42,4 +42,4 @@ TEST
 ## Questions:
 1. Please click the link for Github: <a href = "https://github.com/kurtisjin">My Github Site</a>
 2. Please click the link for my Website: <a href = "https://www.kurtisjin.com">My Website</a>
-3. Email: kurtisjin21@gmail.com 
+3. Email: kurtisjin@gmail.com 
