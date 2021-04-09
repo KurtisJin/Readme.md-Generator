@@ -2,34 +2,38 @@
 // If there is no license, return an empty string
 
 
-function renderLicenseBadge(license) {
-  const licenseType = license`.${data.license[0]}`;
-  let yourLicense = '';
+function renderLicenseBadge(data) {
+  let licenseType = data.license[0];
+  let yourLicense = ''
   if(licenseType === 'MIT') {
-    yourLicense = `![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)`
-  } 
-  if (licenseType === 'GPLv3') {
-    yourLicense = `![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)`
-  } 
-  if (licenseType === 'GPL') {
-    yourLicense = `![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)`
+    yourLicense = `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]`
+  } else if (licenseType === 'GPLv3') {
+    yourLicense = `[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)]`
+  } else if (licenseType === 'GPL') {
+    yourLicense = `[![GPL license](https://img.shields.io/badge/License-GPL-blue.svg)]`
+  } else if(license === 'Apache') {
+    yourLicense = '[![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)]'
+  } else {
+    yourLicense = '';
   }
-  return yourLicense; 
+  return yourLicense;
 };
 
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
-function renderLicenseLink(license) {
-  const yourLink = '';
-  if(license === 'MIT') {
+function renderLicenseLink(data) {
+  let licenseLink = data.license[0];
+  let yourLink = '';
+  if(licenseLink === 'MIT') {
     yourLink = `<a href = "https://opensource.org/licenses/MIT">License Link</a>`
-  } else if (license === 'GPLv3') {
+  } else if (licenseLink === 'GPLv3') {
     yourLink = `<a href = "http://perso.crans.org/besson/LICENSE.html">License Link</a>`
-  } else if (license === 'GPL') {
+  } else if (licenseLink === 'GPL') {
     yourLink = `<a href = "http://perso.crans.org/besson/LICENSE.html">License Link</a>`
+  } else if(licenseLink === 'Apache') {
   } else {
-    yourLink = ''
+    yourLink = '';
   }
   return yourLink;
 }
@@ -70,7 +74,8 @@ ${data.usage}
 ${data.credits}
 
 ## Licenses:
-
+${renderLicenseBadge(data)}
+${renderLicenseLink(data)}
 
 ## Features:
 ${data.features}

@@ -1,4 +1,4 @@
-# // ${renderLicenseBadge(license)}
+#     yourLink = `(https://opensource.org/licenses/Apache-2.0)`
 
 ## Table of Contents:
   1. [Description](#description)
@@ -12,29 +12,30 @@
   9. [Questions](#questions)
 
 ## Description:
-// ${renderLicenseLink(license)}// ${renderLicenseBadge(license)}
+test
 
 ## Installation:
-// ${renderLicenseLink(license)}// ${renderLicenseBadge(license)}
+test
 
 ## Usage:
-// ${renderLicenseLink(license)}// ${renderLicenseBadge(license)}
+test
 
 ## Credits:
-// ${renderLicenseLink(license)}// ${renderLicenseBadge(license)}
+test
 
-## License:
-GPL
+## Licenses:
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+<a href = "https://opensource.org/licenses/MIT">License Link</a>
 
 ## Features:
-// ${renderLicenseBadge(license)}
+test
 
 ## Contribute:
-// ${renderLicenseLink(license)}// ${renderLicenseBadge(license)}
+test
 
 ## Test:
-// ${renderLicenseLink(license)}// ${renderLicenseBadge(license)}
+test
 
 ## Questions:
-Please click the link for Github: <a href = "https://github.com/// ${renderLicenseLink(license)}// ${renderLicenseBadge(license)}">My Github Site</a>
-Please click the link for my Website: <a href = "// ${renderLicenseLink(license)}// ${renderLicenseBadge(license)}">My Website</a>
+Please click the link for Github: <a href = "https://github.com/test">My Github Site</a>
+Please click the link for my Website: <a href = "test">My Website</a>
