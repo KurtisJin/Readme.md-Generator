@@ -59,6 +59,11 @@ const questions =  [
             name: 'questions2',
             message: 'Enter your full website address including http(s)://'            
         },
+        {
+            type: 'input', 
+            name: 'questions3',
+            message: 'Enter your email address'            
+        },
     ]
 
 // TODO: Create a function to write README file
