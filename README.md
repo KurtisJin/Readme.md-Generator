@@ -1,4 +1,4 @@
-# Please click the link for my Website: <a href = "${data.questions2}">My Website</a>
+# Readme Generator
 
 ## Table of Contents:
   1. [Description](#description)
@@ -38,5 +38,6 @@ test
 test
 
 ## Questions:
-1. Please click the link for Github: <a href = "https://github.com/test">My Github Site</a>
-2. Please click the link for my Website: <a href = "test">My Website</a> 
+1. Please click the link for Github: <a href = "https://github.com/kurtisjin">My Github Site</a>
+2. Please click the link for my Website: <a href = "https://kurtisjin.com">My Website</a>
+3. Email: kurtisjin21@gmail.com 

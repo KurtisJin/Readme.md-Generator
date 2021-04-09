@@ -105,7 +105,7 @@ ${data.test}
 ## Questions:
 1. Please click the link for Github: <a href = "https://github.com/${data.questions}">My Github Site</a>
 2. Please click the link for my Website: <a href = "${data.questions2}">My Website</a>
-3. Email: ${data.question3} 
+3. Email: ${data.questions3} 
 `;
 }
 
