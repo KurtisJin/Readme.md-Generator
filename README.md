@@ -24,9 +24,9 @@ licenseSection
 licenseSection
 
 ## Licenses:
-Your Badge: ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-Your Badge link: <a href = "https://opensource.org/licenses/MIT">License Link</a>
-Your Badge Readme: <a href = "https://www.gnu.org/licenses/quick-guide-gplv3.html">GPLv3 Guide</a>
+1. Your Badge: ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+2. Your Badge link: <a href = "https://opensource.org/licenses/MIT">License Link</a>
+3. Your Badge Readme: <a href = "https://www.gnu.org/licenses/quick-guide-gplv3.html">GPLv3 Guide</a>
 
 ## Features:
 licenseSection
