@@ -1,4 +1,6 @@
-# Readme Generator
+# 4/9/2021
+
+## Badge: ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Table of Contents:
   1. [Description](#description)
@@ -12,16 +14,16 @@
   9. [Questions](#questions)
 
 ## Description:
-test
+TEST
 
 ## Installation:
-test
+TEST
 
 ## Usage:
-test
+TEST
 
 ## Credits:
-test
+TEST
 
 ## Licenses:
 1. Your Badge: ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -29,15 +31,15 @@ test
 3. Your Badge Readme: <a href = "https://gist.github.com/ckib16/8732561535ed766cd6b8">MIT Guide</a>
 
 ## Features:
-test
+TEST
 
 ## Contribute:
-test
+TEST
 
 ## Test:
-test
+TEST
 
 ## Questions:
 1. Please click the link for Github: <a href = "https://github.com/kurtisjin">My Github Site</a>
-2. Please click the link for my Website: <a href = "https://kurtisjin.com">My Website</a>
+2. Please click the link for my Website: <a href = "https://www.kurtisjin.com">My Website</a>
 3. Email: kurtisjin21@gmail.com 
