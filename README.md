@@ -1,4 +1,4 @@
-#     yourLink = `(https://opensource.org/licenses/Apache-2.0)`
+# licenseSection
 
 ## Table of Contents:
   1. [Description](#description)
@@ -12,30 +12,31 @@
   9. [Questions](#questions)
 
 ## Description:
-test
+licenseSection
 
 ## Installation:
-test
+licenseSection
 
 ## Usage:
-test
+licenseSection
 
 ## Credits:
-test
+licenseSection
 
 ## Licenses:
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
-<a href = "https://opensource.org/licenses/MIT">License Link</a>
+Your Badge: ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+Your Badge link: <a href = "https://opensource.org/licenses/MIT">License Link</a>
+Your Badge Readme: <a href = "https://www.gnu.org/licenses/quick-guide-gplv3.html">GPLv3 Guide</a>
 
 ## Features:
-test
+licenseSection
 
 ## Contribute:
-test
+licenseSection
 
 ## Test:
-test
+licenseSection
 
 ## Questions:
-Please click the link for Github: <a href = "https://github.com/test">My Github Site</a>
-Please click the link for my Website: <a href = "test">My Website</a>
+Please click the link for Github: <a href = "https://github.com/licenseSection">My Github Site</a>
+Please click the link for my Website: <a href = "licenseSection">My Website</a>
